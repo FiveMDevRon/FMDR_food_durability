@@ -1,0 +1,2 @@
+ALTER TABLE items
+ADD COLUMN durability INT DEFAULT 100;
