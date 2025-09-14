@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Wickk'
+author 'FiveMDevRon'
 description 'FMDR Food Durability System for ESX'
 version '1.0.0'
 
